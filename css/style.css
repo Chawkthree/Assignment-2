@@ -1,0 +1,33 @@
+body{
+
+}
+
+.em-text{
+	color: white !important;
+}
+
+section{
+	padding: 40px 0 40px 0;
+}
+
+.jumbotron{
+	background: url(../images/dan.jpg) center;
+	height: 500px;
+	color: #42413e;
+	overflow: none;
+	background-repeat: no-repeat;
+}
+
+.jumbotron h1{
+	margin-top: 60px;
+}
+
+.jumbotron p{
+	width: 50%;
+}
+
+
+
+
+
+
